@@ -13,8 +13,8 @@ https://www.kaggle.com/datasets/lokeshparab/imdb-tv-shows-dataset-latest<br>
 __________________________________________________________________________________________________________________________________________________________________________________
 ### คำถามที่ 1: 10 อันดับซีรีส์ยอดนิยมของ Netflix ในปี 2022-2024 มีอะไรบ้าง<br>
 **กราฟที่ 1:** Top 10 Most Watched Netflix Shows<br>
+![Top 10 Shows](https://github.com/user-attachments/assets/154769d2-8cc7-41c0-8eba-f09d52f25a4f)
 
-![Top 10 Shows](https://github.com/user-attachments/assets/ef5ac593-9d9c-4b73-ac00-d0d8e3c1f659)
 __________________________________________________________________________________________________________________________________________________________________________________
 
 ### คำถามที่ 2: ช่วงเวลาไหนที่ซีรีส์มียอดวิวสูงที่สุด<br>
@@ -61,7 +61,7 @@ ________________________________________________________________________________
 <br>
 
 **กราฟที่ 1:** Views by Genre per Year
-![Views by Genre per Year](https://github.com/user-attachments/assets/b4fc78b3-0383-48cf-bf06-49858c9b5eb0)
+![Views by Genre per Year](https://github.com/user-attachments/assets/a7769d2b-d31d-444d-9636-38369e9bce73)
 
 
 
