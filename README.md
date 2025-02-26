@@ -50,8 +50,7 @@ ________________________________________________________________________________
 **กราฟที่ 2:** Monthly Trends of Hours Viewed by Year
 <br>
 
-![Monthly Trends of Weekly Hours Viewed by Year](https://github.com/user-attachments/assets/15432d07-63ba-42a9-9c85-e713bc2ee031)
-
+![Monthly Trends of Weekly Hours Viewed by Year](https://github.com/user-attachments/assets/14375b24-428b-4cfc-8a09-617cf5997939)
 
 __________________________________________________________________________________________________________________________________________________________________________________
 ### คำถามที่ 3: ความยาวของซีรีส์สัมพันธ์กับความนิยมหรือไม่<br>
@@ -64,7 +63,7 @@ ________________________________________________________________________________
 **กราฟที่ 3:** Relationship Between Runtime and Weekly Hours Viewed
 <br>
 
-![Relationship Between Runtime and Weekly Hours Viewed](https://github.com/user-attachments/assets/98dd9d1f-bd7b-4cb2-8347-87ba11d85d1d)
+![Relationship Between Runtime and Weekly Hours Viewed](https://github.com/user-attachments/assets/5636f35b-49ed-47c6-8191-43718ea7a8e5)
 
 __________________________________________________________________________________________________________________________________________________________________________________
 ### คำถามที่ 4: ซีรีส์ประเภทไหนถูกใจคนดู
@@ -87,7 +86,7 @@ ________________________________________________________________________________
 - **Fantasy มียอดวิวที่สูงในปี 2022 และลดลงอย่างมากในปี 2023 และ 2024** ซึ่งเป็นผลมาจากยอดวิวของซีรีส์ดังอย่าง Stranger Things ซีซั่น 4 ที่ Premiere ในปี 2022 อาจตีความได้ว่าซีรีส์ประเภท Fantasy เป็นซีรีส์เฉพาะกลุ่มและจะมียอดวิวที่สูงเมื่อมีซีรีส์ดังที่เป็นแนว Fantasy ฉายเท่านั้น
   
 **กราฟที่ 5:** Views by Genre per Year
-![Views by Genre per Year](https://github.com/user-attachments/assets/38e6d534-9781-4f36-b8fa-a0f0c0760d4e)
+![Views by Genre per Year](https://github.com/user-attachments/assets/fbaeb070-9c85-42a0-8b2b-483adb92f01c)
 
 <br>
 
@@ -98,7 +97,8 @@ ________________________________________________________________________________
 
 
 **กราฟที่ 6:** Most Watched Netflix Genres by Year
-![Most Watched Netflix Genres by Year (2022-2024)](https://github.com/user-attachments/assets/71998f00-7def-4984-b98c-c53279c649b1)
+![Most Watched Netflix Genres by Year (2022-2024)](https://github.com/user-attachments/assets/a7f0f766-9cab-4a98-92dc-bf431e4eb597)
+
 __________________________________________________________________________________________________________________________________________________________________________________
 
 ### บทสรุป
