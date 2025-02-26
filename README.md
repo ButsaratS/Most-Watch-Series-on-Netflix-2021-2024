@@ -18,10 +18,11 @@ ________________________________________________________________________________
 - **ปี 2022: Stranger Things กลับมายึดบัลลังก์** Stranger Things ซีซั่น 4 เป็นซีรีส์ที่มียอดวิวสูงสุด ซีรีส์แนวสยองขวัญและอาชญากรรม เช่น Wednesday และ DAHMER ก็ติดอันดับสูง Bridgerton ยังคงได้รับความนิยมจากซีซั่น 2
 - **ปี 2023 Ginny & Georgia ครองอันดับ 1** แสดงให้เห็นว่าซีรีส์แนวดราม่า-ครอบครัวสามารถเข้าถึงผู้ชมได้มากขึ้น The Night Agent และ The Glory ติดอันดับ แสดงให้เห็นความนิยมของซีรีส์แนวแอ็กชันและดราม่า ONE PIECE ซึ่งเป็นซีรีส์ Live-Action ดัดแปลงจากมังงะชื่อดังก็มียอดรับชมสูง
 - **ปี 2024 Bridgerton กลับมาเป็นซีรีส์ที่มีคนดูมากที่สุด** Queen of Tears และ Fool Me Once เป็นซีรีส์ใหม่ที่มาแรง ซีรีส์แนวแอ็กชันและแฟนตาซี เช่น Prison Break และ Avatar: The Last Airbender ยังคงได้รับความนิยม<br>
+<br>
 
 **กราฟที่ 1:** Top 10 Most Watched Netflix Shows<br>
+![Top 10 Shows](https://github.com/user-attachments/assets/207c46e1-f3b9-428a-aa05-9e7ccd084e0a)
 
-![Top 10 Shows](https://github.com/user-attachments/assets/9416ae2e-c061-46a2-9367-74fd71223ac9)
 
 __________________________________________________________________________________________________________________________________________________________________________________
 
@@ -63,7 +64,7 @@ ________________________________________________________________________________
 **กราฟที่ 3:** Relationship Between Runtime and Weekly Hours Viewed
 <br>
 
-![Relationship Between Runtime and Weekly Hours Viewed](https://github.com/user-attachments/assets/b35d2f6c-d6f5-4544-ab85-e48116c2636c)
+![Relationship Between Runtime and Weekly Hours Viewed](https://github.com/user-attachments/assets/98dd9d1f-bd7b-4cb2-8347-87ba11d85d1d)
 
 __________________________________________________________________________________________________________________________________________________________________________________
 ### คำถามที่ 4: ซีรีส์ประเภทไหนถูกใจคนดู
