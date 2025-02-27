@@ -86,7 +86,7 @@ ________________________________________________________________________________
 - **Fantasy มียอดวิวที่สูงในปี 2022 และลดลงอย่างมากในปี 2023 และ 2024** ซึ่งเป็นผลมาจากยอดวิวของซีรีส์ดังอย่าง Stranger Things ซีซั่น 4 ที่ Premiere ในปี 2022 อาจตีความได้ว่าซีรีส์ประเภท Fantasy เป็นซีรีส์เฉพาะกลุ่มและจะมียอดวิวที่สูงเมื่อมีซีรีส์ดังที่เป็นแนว Fantasy ฉายเท่านั้น
   
 **กราฟที่ 5:** Views by Genre per Year
-![Views by Genre per Year](https://github.com/user-attachments/assets/3e5ffc47-8da4-4362-b0bd-a1bb298012a5)
+![Views by Genre per Year](https://github.com/user-attachments/assets/22f12eaf-4f0f-4bd1-94f8-7dc75e33bfb9)
 
 <br>
 
@@ -97,7 +97,7 @@ ________________________________________________________________________________
 
 
 **กราฟที่ 6:** Most Watched Netflix Genres by Year
-![Most Watched Netflix Genres by Year (2022-2024)](https://github.com/user-attachments/assets/5050c0e8-5d03-4124-bfa0-7e44ffde7da2)
+![Most Watched Netflix Genres by Year (2022-2024)](https://github.com/user-attachments/assets/190f43a1-1c96-444c-a31d-55496c256690)
 
 __________________________________________________________________________________________________________________________________________________________________________________
 
